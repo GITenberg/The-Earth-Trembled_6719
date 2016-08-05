@@ -1,0 +1,33 @@
+_repo: The-Earth-Trembled_6719
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roe, Edward Payson
+    alias: Roe, E. P. (Edward Payson)
+    birthdate: 1838
+    deathdate: 1888
+    gutenberg_agent_id: '858'
+    url: http://www.gutenberg.org/2009/agents/858
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Payson_Roe
+description: At the beginning of the Civil War there was a fine old residence on meeting
+  street in Charleston, South Carolina, inhabited by a family almost as old as the
+  state. Its inheritor and owner, Orville Burgoyne, was a widower. He had been much
+  saddened in temperament since the death of the wife, and had withdrawn as far as
+  possible from public affairs. His library and the past had secured a stronger hold
+  upon his interest and his thoughts than anything in the present, with one exception,
+  his idolized and only child, Mary, named for her deceased mother.
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charleston Earthquake, S.C., 1886 -- Fiction'
+- !lcsh 'South Carolina -- History -- 1865- -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Earth Trembled
+url: http://www.gutenberg.org/ebooks/6719
