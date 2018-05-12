@@ -1,5 +1,8 @@
 _repo: The-Earth-Trembled_6719
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roe, Edward Payson
@@ -16,6 +19,8 @@ description: At the beginning of the Civil War there was a fine old residence on
   possible from public affairs. His library and the past had secured a stronger hold
   upon his interest and his thoughts than anything in the present, with one exception,
   his idolized and only child, Mary, named for her deceased mother.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6719#The-Earth-Trembled
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
